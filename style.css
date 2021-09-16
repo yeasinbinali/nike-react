@@ -1,0 +1,23 @@
+::selection{
+    background-color: #FA804C;
+    color: #363958;
+}
+.anchor:hover{
+    color: #FA804C;
+}
+#header-color{
+    color: #FFF9F4;;
+}
+.text-color{
+    color: #FA804C;
+}
+.other-color{
+    color: #363958;;
+}
+.font-size{
+    font-size: 45px;
+    font-weight: bold;
+}
+.image-size{
+    width: 407px;
+}
